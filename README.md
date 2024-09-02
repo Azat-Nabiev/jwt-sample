@@ -2,4 +2,4 @@
 
 ## gin, goose, pgx
 
-### JWT processing
+### JWT processing, middleware, pgx
